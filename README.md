@@ -205,9 +205,9 @@
 
 <!-- Snake 먹이 애니메이션(옵션) -->
 <!-- 깃허브 잔디 컨트리뷰션 그래프에 스네이크 애니메이션을 추가할 수 있습니다. -->
-<p align="start">
+<!-- <p align="start">
   <img src="https://github.com/lee-hyeong-jin/lee-hyeong-jin/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+</p> -->
 
 <!-- Buy Me a Coffee(옵션) -->
 <!-- 후원을 받고 싶다면 아래처럼 Buy Me a Coffee나 Ko-fi 등의 위젯을 추가할 수 있습니다. -->
