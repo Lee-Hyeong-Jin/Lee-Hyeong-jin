@@ -19,7 +19,6 @@ I'm an AI-focused software engineer interested in turning data and models into u
 
 I enjoy working across the AI application lifecycle: structuring source data, designing processing workflows, integrating model APIs, and building the software around them.
 
-- **Current status:** Military service (since September 2025)
 - **Education:** Seoul National University of Science and Technology · 2023–2027
 - **Learning background:** KAIST Cyber Gifted Education Program — C/C++, Python, IoT, and Robotics
 - **Current interests:** Applied AI, vision-language models, retrieval-augmented generation, document intelligence, and learning-based robotics
@@ -71,7 +70,6 @@ An open-source curriculum and learning-assist platform for progressing from robo
 
 | Organization | Role | Period |
 | --- | --- | --- |
-| **Military Service** | Active service | 2025.09.29 – Present |
 | **AtDev** | Freelancer | 2025.09.01 – 2025.09.28 |
 | **BITSTEP LLC** (유한책임회사 비트스텝) | — | 2024.11.01 – 2025.08.31 |
 | **AIdenteti** | Co-founder | 2024.05.01 – 2024.10.31 |
