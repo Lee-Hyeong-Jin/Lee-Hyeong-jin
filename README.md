@@ -39,7 +39,6 @@ A few repositories and collaborative projects that reflect the areas I explore.
 | Project | Description |
 | --- | --- |
 | [Multimodal Preprocessing API](https://github.com/Lee-Hyeong-Jin/multimodal_preprocessing_api) | Backend/API work around multimodal data preprocessing. |
-| [Multi-signature Smart Contract Wallet](https://github.com/Lee-Hyeong-Jin/multisig-scw) | Smart-contract wallet implementation and Web3 infrastructure. |
 | [ETHGlobal Bangkok — Backend](https://github.com/team-aIdentity/ETHBangkok-BE) · [Frontend](https://github.com/team-aIdentity/ETHBangkok-FE) | Hackathon project using the Kinto Wallet SDK. |
 | [Coin Trade SDK](https://github.com/team-aIdentity/coin-trade-sdk) · [Python SDK](https://github.com/team-aIdentity/coin-trade-sdk-py) | Trading SDK experiments and integrations. |
 | [OpenSearch on Kubernetes](https://github.com/Lee-Hyeong-Jin/opensearch-deploy-k8s) | Deployment and infrastructure configuration for OpenSearch on Kubernetes. |
